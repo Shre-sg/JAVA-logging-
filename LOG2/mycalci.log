@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-09-12T03:43:56.223995527Z</date>
+  <millis>1694490236223</millis>
+  <nanos>995527</nanos>
+  <sequence>0</sequence>
+  <logger>Calculator</logger>
+  <level>INFO</level>
+  <class>Calculator</class>
+  <method>actionPerformed</method>
+  <thread>33</thread>
+  <message>&lt;---calculator program opened ---&gt;.</message>
+</record>
+<record>
+  <date>2023-09-12T03:43:57.959547548Z</date>
+  <millis>1694490237959</millis>
+  <nanos>547548</nanos>
+  <sequence>1</sequence>
+  <logger>Calculator</logger>
+  <level>INFO</level>
+  <class>Calculator</class>
+  <method>actionPerformed</method>
+  <thread>33</thread>
+  <message>&lt;---calculator program opened ---&gt;.</message>
+</record>
+<record>
+  <date>2023-09-12T03:43:59.796936467Z</date>
+  <millis>1694490239796</millis>
+  <nanos>936467</nanos>
+  <sequence>2</sequence>
+  <logger>Calculator</logger>
+  <level>INFO</level>
+  <class>Calculator</class>
+  <method>actionPerformed</method>
+  <thread>33</thread>
+  <message>&lt;---calculator program opened ---&gt;.</message>
+</record>
+<record>
+  <date>2023-09-12T03:44:01.110365085Z</date>
+  <millis>1694490241110</millis>
+  <nanos>365085</nanos>
+  <sequence>3</sequence>
+  <logger>Calculator</logger>
+  <level>INFO</level>
+  <class>Calculator</class>
+  <method>actionPerformed</method>
+  <thread>33</thread>
+  <message>&lt;---calculator program opened ---&gt;.</message>
+</record>
+<record>
+  <date>2023-09-12T03:44:01.115192711Z</date>
+  <millis>1694490241115</millis>
+  <nanos>192711</nanos>
+  <sequence>4</sequence>
+  <logger>Calculator</logger>
+  <level>INFO</level>
+  <class>Calculator</class>
+  <method>performCalculation</method>
+  <thread>33</thread>
+  <message>&lt;--NUM1 = 1.0 &amp; NUM2 = 3.0 ---&gt;</message>
+</record>
+<record>
+  <date>2023-09-12T03:44:01.116726228Z</date>
+  <millis>1694490241116</millis>
+  <nanos>726228</nanos>
+  <sequence>5</sequence>
+  <logger>Calculator</logger>
+  <level>INFO</level>
+  <class>Calculator</class>
+  <method>performCalculation</method>
+  <thread>33</thread>
+  <message>&lt;----ADD was chosen as Operation---&gt;&gt;</message>
+</record>
+<record>
+  <date>2023-09-12T03:44:05.722933420Z</date>
+  <millis>1694490245722</millis>
+  <nanos>933420</nanos>
+  <sequence>6</sequence>
+  <logger>Calculator</logger>
+  <level>INFO</level>
+  <class>Calculator</class>
+  <method>actionPerformed</method>
+  <thread>33</thread>
+  <message>&lt;---calculator program opened ---&gt;.</message>
+</record>
+</log>
